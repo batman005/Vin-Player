@@ -37,7 +37,7 @@ We hope you enjoy using Vin-Player and that it provides you with a seamless expe
 ![Screen Shot 2023-03-09 at 15 00 58](https://user-images.githubusercontent.com/51878340/223987346-4208644f-72ee-4500-b70c-bfebcc13e077.png)
 
 
-## Work in progress(Improvment)
+## Work in progress(Improvement)
 
 - [ ] Implementing the ability to delete multiple cards from a bucket at once
 - [ ] Writing unit test cases to ensure the reliability and accuracy of these features
